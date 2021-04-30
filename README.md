@@ -2,4 +2,4 @@
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science
 
 
-(https://github.com/Thalesh7991/Thales-Portf-lio-Data-Science.git/yaktocat.png)
+
