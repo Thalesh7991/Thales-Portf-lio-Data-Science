@@ -34,7 +34,7 @@ The main objective of this data science personal project portfolio is to demonst
 
 ## Data Science Projects: 
 
-[**Insiders Clustering**](https://www.google.com)
+[**Insiders Clustering**](https://github.com/Thalesh7991/Insiders-Customers.git)
 
 
 [**Health Insurance Cross-Sell**](https://www.google.com)
