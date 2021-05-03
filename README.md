@@ -29,7 +29,7 @@ The main objective of this data science personal project portfolio is to demonst
 **Machine Learning Modeling**: Classification, Regression, Clustering, Time Series.
 
 
-**Links: **
+**Links:**
 
 
 ## Data Science Projects: 
