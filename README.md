@@ -4,5 +4,9 @@ The main objective of this data science personal project portfolio is to demonst
 
 ![Image Inicial](/banner.png)
 
+# Thales Henrique
+
+Data Scientist
+
 
 
