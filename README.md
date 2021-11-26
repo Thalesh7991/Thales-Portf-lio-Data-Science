@@ -38,6 +38,5 @@ The main objective of this data science personal project portfolio is to demonst
 <p> Rossmann store managers need daily sales predictions for up to six weeks in advance so as to plan infrastructure investments in their stores (will next six weeks sales be high enough to balance infrastructure investment?). The final solution for this problem is a Telegram bot where the user just needs to type the number of the store and the bot will quickly answer the sales prediction for this given store in the next six weeks. </p>
 
 [**Insiders Clustering**](https://github.com/Thalesh7991/Insiders-Customers.git) (**Developing**)
+The All in One Place company is a multi-brand outlet company that sells second-line products of several brands at a lower price through e-commerce. Within just one year of operation, the marketing team realized that some customers buy more expensive products with high frequency and contribute to a significant portion of the company's revenue. This project aims to determine who are the customers eligible to participate in the Insiders program. Once this list is ready, the Marketing team will carry out a sequence of personalized and exclusive actions to this group of people to increase their sales and purchase frequency. The final solution answers business questions, validate business hypotheses, create a reporting dashboard and implement a solution architecture in AWS cloud.
 
-
-[**Health Insurance Cross-Sell**](https://www.google.com)
