@@ -32,7 +32,10 @@ The main objective of this data science personal project portfolio is to demonst
 **Links:**
 
 
-## Data Science Projects: 
+## Data Science Projects:
+
+[**Rossman Sales Predict**](https://github.com/Thalesh7991/Rossmann-Sales-Predict)
+<p> Rossmann store managers need daily sales predictions for up to six weeks in advance so as to plan infrastructure investments in their stores (will next six weeks sales be high enough to balance infrastructure investment?). The final solution for this problem is a Telegram bot where the user just needs to type the number of the store and the bot will quickly answer the sales prediction for this given store in the next six weeks. </p>
 
 [**Insiders Clustering**](https://github.com/Thalesh7991/Insiders-Customers.git) (**Developing**)
 
