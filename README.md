@@ -37,6 +37,23 @@ The main objective of this data science personal project portfolio is to demonst
 [**Rossman Sales Predict**](https://github.com/Thalesh7991/Rossmann-Sales-Predict)
 <p> Rossmann store managers need daily sales predictions for up to six weeks in advance so as to plan infrastructure investments in their stores (will next six weeks sales be high enough to balance infrastructure investment?). The final solution for this problem is a Telegram bot where the user just needs to type the number of the store and the bot will quickly answer the sales prediction for this given store in the next six weeks. </p>
 
-[**Insiders Clustering**](https://github.com/Thalesh7991/Insiders-Customers.git) (**Developing**)
+[**Insiders Clustering**](https://github.com/Thalesh7991/Insiders-Customers.git) (**Em Desenvolvimento**)
 <p> The All in One Place company is a multi-brand outlet company that sells second-line products of several brands at a lower price through e-commerce. Within just one year of operation, the marketing team realized that some customers buy more expensive products with high frequency and contribute to a significant portion of the company's revenue. This project aims to determine who are the customers eligible to participate in the Insiders program. Once this list is ready, the Marketing team will carry out a sequence of personalized and exclusive actions to this group of people to increase their sales and purchase frequency. The final solution answers business questions, validate business hypotheses, create a reporting dashboard and implement a solution architecture in AWS cloud. </p>
+
+[**Health Insurance Cross-Sell**](https://github.com/Thalesh7991/health-insurance-cross-sell)
+
+[**Elasticidade de Preço**](https://github.com/Thalesh7991/elasticidade_preco/tree/master)
+
+[**Ensaio de Algoritmos de Machine Learning**](https://github.com/Thalesh7991/ensaios-algoritmos-ml)
+
+[**Teste A/B para E-commerce**](https://github.com/Thalesh7991/ab_test_eletronic_house/)
+
+[**Monitoramento Performance Legislativa**](https://github.com/Thalesh7991/scraping_prefeitura) (**Em Desenvolvimento**)
+
+[**Predição Lead Time Delivery**](https://github.com/Thalesh7991/delivery_fast) (**Em Desenvolvimento**)
+
+
+
+
+
 
