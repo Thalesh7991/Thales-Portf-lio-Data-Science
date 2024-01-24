@@ -6,31 +6,17 @@ O principal objetivo deste portfólio de projetos pessoais de ciência de dados 
 
 # Thales Henrique
 
-<em>Data Scientist</em>
+<em>Cientista de Dados</em>
 
-<p>I have studied Machine Learning since 2019 and have 2 years of professional experience as a Data Analyst in a industry company in Brazil. </p>
+<p>Cientista de Dados na Radix Engenharia e Software, atua como consultor para grandes empresas do mercado nacional e internacional. Recentemente desenvolveu projetos de Ciência de Dados para a PETROBRAS, aprimorando a tomada de decisão em processos de engenharia submarina. </p>
 
-<p>I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production.</p>
+<p> Faço parte da Comunidade DS, a maior comunidade de ensino aprendizagem de ciência de dados do Brasil, onde desenvolve-se habilidades através de projetos reais. Na Comunidade DS destaquei-me na construção de algoritmos para previsão de vendas e desenvolvimento de um modelo de clusterização de clientes, resultando em significativo faturamento incremental para uma rede de farmácias.</p>
 
-<p>I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn and prioritizing customers for cross-selling.</p>
+<p>Possui mais de 3 anos como Analista de Dados em uma grande empresa do ramo industrial, onde liderou projetos estratégicos na área de PPCP, proporcionando análises precisas e insights valiosos. Contribuição ativa na otimização da programação de produção, controle de estoque e estratégias de vendas.</p>
 
-<p>The details of each solution are described in the projects below.</p>
+<p> Nesse Porfólio de Projeto, busco demonstrar minhas habilidades em ciência de dados em projetos reais. Resolvendo problemas de negócio de ponta a ponta. </p>
 
-## Analytical Tools:
-
-**Data Collect and Storage**: SQL, MySQL, Postgres and SQL Server.
-
-**Data Processing and Analysis**: R and Python.
-
-**Development**: Git, Scrum and Lean Analytics.
-
-**Data Vizualization**: Power BI and Metabase
-
-**Machine Learning Modeling**: Classification, Regression, Clustering, Time Series.
-
-
-**Links:**
-
+<p>Os detalhes de cada solução estão descritos nos projetos abaixo.</p>
 
 ## Data Science Projects:
 
