@@ -1,5 +1,5 @@
 # Thales Portfolio Data Science
-The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
+O principal objetivo deste portfólio de projetos pessoais de ciência de dados é demonstrar minhas habilidades na resolução de desafios de negócios através do meu conhecimento e ferramentas de Ciência de Dados.
 
 
 ![Image Inicial](/banner.png)
